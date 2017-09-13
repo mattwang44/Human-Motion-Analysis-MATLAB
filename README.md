@@ -25,7 +25,7 @@ Derive the COP from signals of two force plates and display the positions relati
 
 ### Week4: Curve Fitting
 1. Smoothen the data curve and display the angular velocity and angular acceleration.  
-![AngVel](/results/hw4_AngVel.jpg)  ![AngAcc](/results/hw4_AngAcc.jpg)  
+![AngVel](/results/hw4_AngVel.jpg =250x)  ![AngAcc](/results/hw4_AngAcc.jpg =250x)  
 
 
 
