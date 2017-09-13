@@ -24,8 +24,13 @@ Derive the COP from signals of two force plates and display the positions relati
 ![Static calibration](/results/hw3.png)  
 
 ### Week4: Curve Fitting
-1. Smoothen the data curve and display the angular velocity and angular acceleration.  
-<img src="/results/hw4_AngVel.jpg" width="400"><img src="/results/hw4_AngAcc.jpg" width="400">
+1. Smoothen the data curve and display the angular velocity of lower body.  
+<img src="/results/hw4_AngVel.jpg" width="400">  
+2. Consider right foot only, compare the result from analytic solution of angular acceleration and 1st derivation of angular velocity.  
+<img src="/results/hw4_AngAcc.jpg" width="400">
+3. Consider right thigh only, compare the angular velocity derive from different sequence of Euler angle.  
+The one with Gimbal lock during motion can be easily detemined and then be avoided.
+<img src="/results/hw4_12RotSeq.jpg" width="400">
 
 
 
