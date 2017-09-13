@@ -50,4 +50,4 @@ Derive the COP data during the recipient is standing still. Determined the eclip
 
 ### Week9: Angular Momentum  
 Derive the angular momentum and 1st derivation of angular momentum during the motion.
-<img src="/results/hw9_AngMoment.jpg" width="400"> <img src="/results/hw9_1der.jpg" width="400"> 
+<img src="/results/hw9_AngMoment.jpg" width="430"> <img src="/results/hw9_1der.jpg" width="430"> 
