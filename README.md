@@ -14,7 +14,9 @@ Functions: CoordG2L.m, CoordL2G.m, CoordPelvis.m, CoordThigh.m, CoordShank.m, Co
 
 ### Week2: COP Tracking
 Derive the COP from signals of two force plates and display the positions relative to force plates.
+
 Functions: ForcePlate.m: Derive COP, force and position relative to local coord. and the rotation matrix from single force plate.
+
            ForcePlateN.m: Derive overall COP, forces and positions relative to local coord. and the rotation matrice from multiple force plates.
 ![COP Tracking](/results/COP.gif) 
 
