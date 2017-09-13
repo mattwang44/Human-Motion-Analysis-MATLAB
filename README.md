@@ -53,6 +53,6 @@ Derive the angular momentum and 1st derivation of angular momentum during the mo
 <img src="/results/hw9_AngMomentum.jpg" width="430"> <img src="/results/hw9_1der.jpg" width="430"> 
 
 ### Week10: Joint Moment & Joint Force
-Derive the joint moment & joint force of angular momentum during the motion. The results are normalized by divided by weight of recipient.
-<img src="/results/hw10_1.jpg" width="430"> <img src="/results/hw10_2.jpg" width="430"> 
+Derive the joint moment & joint force of angular momentum during the motion. The results are normalized by divided by weight of recipient.  
+<img src="/results/hw10_1.jpg" width="650"> <img src="/results/hw10_2.jpg" width="650"> 
 
