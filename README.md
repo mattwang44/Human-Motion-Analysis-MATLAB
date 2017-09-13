@@ -9,10 +9,10 @@ Implemented MATLAB programs with a motion capture system and force plates for mo
 3. Programs are tested in Win10 & Ubuntu 16.04
 
 ## Functions & Execution Results
-### Week1: Transformation between Global & Local Coordinate 
+### Week1: Transformation between Global & Local Coordinate  
 **Functions**: CoordG2L.m, CoordL2G.m, CoordPelvis.m, CoordThigh.m, CoordShank.m, CoordFoot.m
 
-### Week2: COP Tracking
+### Week2: COP Tracking  
 Derive the COP from signals of two force plates and display the positions relative to force plates.
 
 **Functions**:  
