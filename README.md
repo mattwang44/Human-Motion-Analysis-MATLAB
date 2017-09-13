@@ -15,8 +15,8 @@ Implemented MATLAB programs with a motion capture system and force plates for mo
 ### Week2: COP Tracking
 Derive the COP from signals of two force plates and display the positions relative to force plates.
 
-**Functions**: 
-  ForcePlate.m: Derive COP from single force plate.    
+**Functions**:  
+ForcePlate.m: Derive COP from single force plate.    
   ForcePlateN.m: Derive overall COP from multiple force plates.  
   
 ![COP Tracking](/results/COP.gif) 
