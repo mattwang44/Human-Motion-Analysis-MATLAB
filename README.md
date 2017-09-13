@@ -17,6 +17,7 @@ Derive the COP from signals of two force plates and display the positions relati
 
 **Functions**: 
   ForcePlate.m: Derive COP from single force plate.
+  
   ForcePlateN.m: Derive overall COP from multiple force plates.
 ![COP Tracking](/results/COP.gif) 
 
