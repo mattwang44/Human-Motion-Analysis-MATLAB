@@ -16,6 +16,7 @@ Functions: CoordG2L.m, CoordL2G.m, CoordPelvis.m, CoordThigh.m, CoordShank.m, Co
 Derive the COP from signals of two force plates and display the positions relative to force plates.
 
 Functions: ForcePlate.m: Derive COP from single force plate.
+
            ForcePlateN.m: Derive overall COP from multiple force plates.
 ![COP Tracking](/results/COP.gif) 
 
