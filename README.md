@@ -18,18 +18,18 @@ Derive the COP from signals of two force plates and display the positions relati
 ![COP Tracking](/results/COP.gif) 
 
 ### Week3: Euler Angle & Fixed Angle
-1. Represent the rotations of body segemnts with Euler angle and fixed angle.  
-2. Display the difference of Euler angle before and after static calibration of indivisual during motion.  
+1. Represent the rotations of body segemnts with **Euler angle** and **fixed angle**.  
+2. Display the difference of Euler angle before and after **static calibration** of indivisual during motion.  
 
 ![Static calibration](/results/hw3.png)  
 
 ### Week4: Curve Fitting
-1. Smoothen the data curve and display the angular velocity of lower body.  
+1. Smoothen the data curve and display the **angular velocity** of lower body.  
   
-2. Consider right foot only, compare the result from analytic solution of angular acceleration and 1st derivation of angular velocity.  
+2. Consider right foot only, compare the result from **analytic solution of angular acceleration** and **1st derivation of angular velocity**.  
 
-3. Consider right thigh only, compare the angular velocity derive from different sequence of Euler angle.  
-The one with Gimbal lock during motion can be easily detemined and then be avoided.
+3. Consider right thigh only, compare the angular velocity derive from 12 sequence of Euler angle.  
+The one with **Gimbal** lock during motion can be easily detemined and then be avoided.
 <img src="/results/hw4_AngVel.jpg" width="280"><img src="/results/hw4_AngAcc.jpg" width="280"><img src="/results/hw4_12RotSeq.jpg" width="280">
 
 
