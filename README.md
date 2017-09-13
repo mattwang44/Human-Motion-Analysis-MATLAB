@@ -41,5 +41,5 @@ The one with **Gimbal** lock during motion can be easily detemined and then be a
 
 ### Week7: COM Tracking 
 1. Derive the COM position of whole body using Dempster's anthropometrical data with simplified the body model as 7, 11, 12, & 13 segments.  
-2. Display the COM positions. (Blue dots are marker position, green ones are COM of body segments & purple one is COM of whole body).  
+2. Display the COM positions. (Yellow: markers' position, green: COM of body segments, purple: COM of whole body).  
 <img src="/results/hw7.jpg" width="320"> <img src="/results/walk.gif" width="300"> 
