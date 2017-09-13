@@ -10,17 +10,31 @@ Implemented MATLAB programs with a motion capture system and force plates for mo
 
 ## Functions & Execution Results
 ### Week1: Transformation between Global & Local Coordinate  
-The transformation of marker position between global & local coordinate of lower body segemnts.  
-**Functions**: CoordG2L.m, CoordL2G.m, CoordPelvis.m, CoordThigh.m, CoordShank.m, CoordFoot.m  
+**The transformation of marker position between global & local coordinate of lower body segemnts.**  
+Functions: CoordG2L.m, CoordL2G.m, CoordPelvis.m, CoordThigh.m, CoordShank.m, CoordFoot.m  
 
 ### Week2: COP Tracking  
-Derive the COP from signals of two force plates and display the positions relative to force plates.  
+**Derive the COP from signals of two force plates and display the positions relative to force plates.**  
   
-**Functions**:  
+Functions:  
 ForcePlate.m: Derive COP from single force plate.    
 ForcePlateN.m: Derive overall COP from multiple force plates.  
 fpCOP.m: Determine the COP relative to local coord. of force plate.  
 fpRV.m: Determine the position vector & rotation matrix relative to local coord. of force plate.  
   
 ![COP Tracking](/results/COP.gif) 
+
+### Week3: Euler Angle & Fixed Angle
+**Represent the rotations of body segemnts with Euler angle and fixed angle.**  
+  
+Functions:  
+RotFormula.m: Derive the symbolic matrice of 12 different rotation sequnces of Euler angle.  
+Rot2Ang.m: Covert rotation matrix to Euler angle.  
+Ang2Rot.m: Covert Euler angle to rotation matrix.  
+RotAngConvert.m: Convert between rotation matrix and Euler angle (determined by format of input matrix).  
+RotAngConvfix.m: Convert between rotation matrix and fixed angle (determined by format of input matrix). 
+
+
+
+
 
