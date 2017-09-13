@@ -11,6 +11,7 @@ Implemented MATLAB programs with a motion capture system and force plates for mo
 ## Execution Results
 
 **COP Tracking (week2)**
+
 ![COP Tracking](/results/COP.gif) 
 
 ## Interface 
