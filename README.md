@@ -44,7 +44,10 @@ The one with **Gimbal** lock during motion can be easily detemined and then be a
 2. Display the COM positions. (Yellow: markers' position, green: COM of body segments, purple: COM of whole body).  
 <img src="/results/hw7.jpg" width="320"> <img src="/results/walk.gif" width="300"> 
 
-### Week8: E aluation of Body Balance
-Derive the COP data during the recipient is standing still. Determined the eclipse covering 95% of COPs with **Principal COmponent Analysis (PCA)**.  
+### Week8: Evaluation of Body Balance
+Derive the COP data during the recipient is standing still. Determined the eclipse covering 95% of COPs with **Principal COmponent Analysis (PCA)**. The area of the eclipse and length of its axes can be a tool for evaluation of body dalance.  
 <img src="/results/hw8_COP95.jpg" width="400">
 
+### Week9: Angular Momentum  
+Derive the angular momentum and 1st derivation of angular momentum during the motion.
+<img src="/results/hw9_AngMoment.jpg" width="320"> <img src="/results/hw9_1der.jpg" width="320"> 
