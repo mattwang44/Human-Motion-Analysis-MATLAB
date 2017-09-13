@@ -9,10 +9,21 @@ Implemented MATLAB programs with a motion capture system and force plates for mo
 3. Programs are tested in Win10 & Ubuntu 16.04
 
 ## Functions & Execution Results
-### Week1: Transformation between Global & Local Coordinate 
-Functions: CoordG2L.m, CoordL2G.m, CoordPelvis.m, CoordThigh.m, CoordShank.m, CoordFoot.m
+### Week1: Transformation between Global & Local Coordinate  
+The transformation of marker position between global & local coordinate of lower body segemnts.  
 
-### Week2: COP Tracking
-Derive the COP from signals of two force plates and display the positions relative to force plates.
+### Week2: COP Tracking  
+Derive the COP from signals of two force plates and display the positions relative to force plates.  
+  
 ![COP Tracking](/results/COP.gif) 
+
+### Week3: Euler Angle & Fixed Angle
+1. Represent the rotations of body segemnts with Euler angle and fixed angle.  
+2. Display the difference of Euler angle before and after static calibration of indivisual.  
+
+![Static calibration](/results/hw3.png) 
+
+
+
+
 

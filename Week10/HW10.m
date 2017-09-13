@@ -122,7 +122,7 @@ Mp_local = cat(4, Mp_local_Hp, Mp_local_Kn, Mp_local_Ak);
 % M = figure('Name','Moment Applied at the Lower Limb Joints', 'NumberTitle','off','position',[0 50 1680 750]);
 dirname = {'Anterior(+)/Posteriro(-)','Superior(+)/Inferior(-)','Lateral(+)/Medial(-)'};
 artiname = {'Hip','Knee','Ankle'};
-open Joint_Force.fig;
+%open Joint_Force.fig;
 for i = 1:3
     for j = 1:3
         figure(1)
@@ -142,15 +142,15 @@ for i = 1:3
         xlim([0 159])
         ylim([min(data(:)) max(data(:))])
         hold on
-        a=plot(1:159,data(:,:,1,:),'b--');
-        b=plot(1:159,data(:,:,2,:),'r--');
+        a=plot(1:159,data(:,:,1,:),'b');
+        b=plot(1:159,data(:,:,2,:),'r');
         legend([a; b], {'Left','Right'});
     end
 end
 
-open Joint_Moment.fig;
+figure
+%open Joint_Moment.fig;
 dirname = {'Abd(+)/Adduction(-)','Internal(+)/External(-) rotation','Flex(+)/Extension(-)'};
-% figure
 for i = 1:3
     for j = 1:3
         subplot(3,3,(i-1)*3+j)
@@ -180,8 +180,8 @@ for i = 1:3
         xlim([0 159])
         ylim([min(data(:)) max(data(:))])
         hold on
-        a=plot(1:159,data(:,:,1,:),'b--');
-        b=plot(1:159,data(:,:,2,:),'r--');
+        a=plot(1:159,data(:,:,1,:),'b');
+        b=plot(1:159,data(:,:,2,:),'r');
         legend([a; b], {'Left','Right'});
     end
 end
