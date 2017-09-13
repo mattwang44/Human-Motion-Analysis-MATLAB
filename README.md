@@ -17,7 +17,9 @@ Derive the COP from signals of two force plates and display the positions relati
 
 **Functions**:  
 ForcePlate.m: Derive COP from single force plate.    
-  ForcePlateN.m: Derive overall COP from multiple force plates.  
+ForcePlateN.m: Derive overall COP from multiple force plates.  
+fpCOP.m: Determine the COP relative to local coord. of force plate.  
+fpRV.m: Determine the position vector & rotation matrix relative to local coord. of force plate.  
   
 ![COP Tracking](/results/COP.gif) 
 
