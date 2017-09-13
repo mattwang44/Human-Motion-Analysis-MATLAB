@@ -31,5 +31,10 @@ The one with **Gimbal** lock during motion can be easily detemined and then be a
 
 ### Week5: Quaternions (Euler Parameters)
 1. Write the function "unwrapEP.m" to eliminate the discontinuity of Quaternions data.    
-2. Compare angular velocity and angular acceleration determined by Euler angle and Quaternions(EP).  
+2. Compare angular velocity and angular acceleration derived from Euler angle and Quaternions(EP).  
 <img src="/results/hw5_unwrapEP().jpg" width="280"><img src="/results/hw5_AngVel.jpg" width="280"><img src="/results/hw5_AngAcc.jpg" width="280">  
+
+### Week6: Screw Axis (Helical Axis)
+1. Compare the rotation axis and angle derived from Screw axis and Quaternoins.
+2. Determine the joint center with least-square error from several rotation axis dervied during the motion.
+<img src="/results/hw6_n&phi.jpg" width="280"><img src="/results/hw6_1.jpg" width="200">
