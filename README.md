@@ -26,8 +26,8 @@ Derive the COP from signals of two force plates and display the positions relati
 1. Smoothen the data curve and display the **angular velocity** of lower body.  
 2. Consider right foot only, compare the results of **analytic solution of angular acceleration** & **1st derivation of angular velocity**.  
 3. Consider right thigh only, compare the angular velocity derive from 12 sequence of Euler angle.  
-The one with **Gimbal** lock during motion can be easily detemined and then be avoided.  
-<img src="/results/hw4_AngVel.jpg" width="280"><img src="/results/hw4_AngAcc.jpg" width="280"><img src="/results/hw4_12RotSeq.jpg" width="280">  
+The one with **Gimbal lock** during motion can be easily detemined and then be avoided.  
+<img src="/results/hw4_AngVel.jpg" width="280"><img src="/results/hw4_AngAcc.jpg" width="280"><img src="/results/hw4_12RotSeq.jpg" width="280">  
 
 ### Week5: Quaternions (Euler Parameters)
 1. Write the function "unwrapEP.m" to eliminate the discontinuity of Quaternions data.    
