@@ -30,7 +30,7 @@ Derive the COP from signals of two force plates and display the positions relati
 
 3. Consider right thigh only, compare the angular velocity derive from different sequence of Euler angle.  
 The one with Gimbal lock during motion can be easily detemined and then be avoided.
-<img src="/results/hw4_AngVel.jpg" width="300"><img src="/results/hw4_AngAcc.jpg" width="300"><img src="/results/hw4_12RotSeq.jpg" width="300">
+<img src="/results/hw4_AngVel.jpg" width="280"><img src="/results/hw4_AngAcc.jpg" width="280"><img src="/results/hw4_12RotSeq.jpg" width="280">
 
 
 
