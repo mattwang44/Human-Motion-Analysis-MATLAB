@@ -15,7 +15,7 @@ The transformation of marker position between global & local coordinate of lower
 ### Week2: COP Tracking  
 Derive the COP from signals of two force plates and display the positions relative to force plates.  
   
-![COP Tracking](/results/COP.gif) 
+<div style="text-align:center"><img src="/results/COP.gif" width="380"></div>  
 
 ### Week3: Euler Angle & Fixed Angle
 1. Represent the rotations of body segemnts with **Euler angle** and **fixed angle**.  
@@ -46,7 +46,7 @@ The one with **Gimbal lock** during motion can be easily detemined and then be a
 
 ### Week8: Evaluation of Body Balance
 Derive the COP data during the recipient is standing still. Determined the eclipse covering 95% ofthese COPs with **Principal COmponent Analysis (PCA)**. The area of the eclipse and length of its axes can be a tool for evaluation of body dalance.  
-<img src="/results/hw8_COP95.jpg" width="400">
+<div style="text-align:center"><img src="/results/hw8_COP95.jpg" width="400"></div>  
 
 ### Week9: Angular Momentum  
 Derive the angular momentum and 1st derivation of angular momentum during the motion.
@@ -54,5 +54,6 @@ Derive the angular momentum and 1st derivation of angular momentum during the mo
 
 ### Week10: Joint Moment & Joint Force
 Derive the joint moment & joint force of angular momentum during the motion. The results are normalized by divided by weight of recipient.  
-<img src="/results/hw10_1.jpg" width="650"> <img src="/results/hw10_2.jpg" width="650"> 
+<div style="text-align:center"><img src="/results/hw10_1.jpg" width="650"></div>  
+<div style="text-align:center"><img src="/results/hw10_2.jpg" width="650"></div>  
 
