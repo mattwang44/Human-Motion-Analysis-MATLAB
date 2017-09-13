@@ -19,9 +19,13 @@ Derive the COP from signals of two force plates and display the positions relati
 
 ### Week3: Euler Angle & Fixed Angle
 1. Represent the rotations of body segemnts with Euler angle and fixed angle.  
-2. Display the difference of Euler angle before and after static calibration of indivisual.  
+2. Display the difference of Euler angle before and after static calibration of indivisual during motion.  
 
-![Static calibration](/results/hw3.png) 
+![Static calibration](/results/hw3.png)  
+
+### Week4: Curve Fitting
+1. Smoothen the data curve and display the angular velocity and angular acceleration.  
+![AngVel](/results/hw4_AngVel.jpg)  ![AngAcc](/results/hw4_AngAcc.jpg)  
 
 
 
