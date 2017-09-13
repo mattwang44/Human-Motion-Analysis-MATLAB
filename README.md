@@ -37,4 +37,4 @@ The one with **Gimbal** lock during motion can be easily detemined and then be a
 ### Week6: Screw Axis (Helical Axis)
 1. Compare the rotation axis and angle derived from Screw axis and Quaternoins.
 2. Determine the joint center with least-square error from several rotation axis dervied during the motion.
-<img src="/results/hw6_n&phi.jpg" width="350"><img src="/results/hw6_1.jpg" width="350">
+<img src="/results/hw6_n&phi.jpg" width="300"><img src="/results/hw6_1.jpg" width="500">
