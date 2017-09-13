@@ -46,5 +46,5 @@ The one with **Gimbal** lock during motion can be easily detemined and then be a
 
 ### Week8: E aluation of Body Balance
 Derive the COP data during the recipient is standing still. Determined the eclipse covering 95% of COPs with **Principal COmponent Analysis (PCA)**.  
-<img src="/results/hw8_COP95.jpg" width="320">
+<img src="/results/hw8_COP95.jpg" width="400">
 
