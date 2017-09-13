@@ -40,6 +40,11 @@ The one with **Gimbal** lock during motion can be easily detemined and then be a
 <img src="/results/hw6_n&phi.jpg" width="300"><img src="/results/hw6_1.jpg" width="500">  
 
 ### Week7: COM Tracking 
-1. Derive the COM position of whole body using Dempster's anthropometrical data with simplified the body model as 7, 11, 12, & 13 segments.  
+1. Derive & compare the COM position of whole body using Dempster's anthropometrical data with simplified the body model as 7, 11, 12, & 13 segments.  
 2. Display the COM positions. (Yellow: markers' position, green: COM of body segments, purple: COM of whole body).  
 <img src="/results/hw7.jpg" width="320"> <img src="/results/walk.gif" width="300"> 
+
+### Week8: E aluation of Body Balance
+Derive the COP data during the recipient is standing still. Determined the eclipse covering 95% of COPs with **Principal COmponent Analysis (PCA)**.  
+<img src="/results/hw8_COP95.jpg" width="320">
+
