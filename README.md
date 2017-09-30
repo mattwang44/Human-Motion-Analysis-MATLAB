@@ -6,7 +6,6 @@ Implemented MATLAB programs with a motion capture system and force plates for mo
 ## Requirements
 1. MATLAB 2015 (or newer versions)
 2. [MTIMESX function](https://www.mathworks.com/matlabcentral/fileexchange/25977-mtimesx-fast-matrix-multiply-with-multi-dimensional-support)(Fast Matrix Multiply with Multi-Dimensional)
-3. Programs are tested in Win10 & Ubuntu 16.04
 
 ## Functions & Execution Results
 ### Week1: Transformation between Global & Local Coordinate  
@@ -15,7 +14,7 @@ The transformation of marker position between global & local coordinate of lower
 ### Week2: COP Tracking  
 Derive the COP from signals of two force plates and display the positions relative to force plates.  
   
-<p style="text-align:center"><img src="/results/COP.gif" width="380"></p>  
+<p style="text-align:center"><img src="./results/COP.gif" width="380"></p>  
 
 ### Week3: Euler Angle & Fixed Angle
 1. Represent the rotations of body segemnts with **Euler angle** and **fixed angle**.  
@@ -40,7 +39,7 @@ The one with **Gimbal lock** during motion can be easily detemined and then be a
 <img src="/results/hw6_n&phi.jpg" width="300"><img src="/results/hw6_1.jpg" width="500">  
 
 ### Week7: COM Tracking 
-1. Derive & compare the COM position of whole body using Dempster's anthropometrical data with simplified the body model as 7, 11, 12, & 13 segments.  
+1. Derive & compare the COM position of whole body using Dempster's anthropometrical data with simplifying the body model as 7, 11, 12, & 13 segments.  
 2. Display the COM positions. (Yellow: markers' position, green: COM of body segments, purple: COM of whole body).  
 <img src="/results/hw7.jpg" width="400"> <img src="/results/walk.gif" width="400"> 
 
