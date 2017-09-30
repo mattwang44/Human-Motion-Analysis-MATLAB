@@ -44,7 +44,7 @@ The one with **Gimbal lock** during motion can be easily detemined and then be a
 <img src="/results/hw7.jpg" width="400"> <img src="/results/walk.gif" width="400"> 
 
 ### Week8: Evaluation of Body Balance
-Derive the COP data during the recipient is standing still. Determined the eclipse covering 95% ofthese COPs with **Principal COmponent Analysis (PCA)**. The area of the eclipse and length of its axes can be a tool for evaluation of body dalance.  
+Derive the COP data during the recipient is standing still. Determined the eclipse covering 95% of these COPs with **Principal COmponent Analysis (PCA)**. The area of the eclipse and length of its axes can be a tool for evaluation of body dalance.  
 <p style="text-align:center"><img src="/results/hw8_COP95.jpg" width="400"></p>  
 
 ### Week9: Angular Momentum  
@@ -52,7 +52,7 @@ Derive the angular momentum and 1st derivation of angular momentum during the mo
 <img src="/results/hw9_AngMomentum.jpg" width="430"> <img src="/results/hw9_1der.jpg" width="430"> 
 
 ### Week10: Joint Moment & Joint Force
-Derive the joint moment & joint force of angular momentum during the motion. The results are normalized by divided by weight of recipient.  
+Derive the normalized joint moment & joint force of angular momentum during the motion. The results are normalized by divided by weight of recipient.  
 <p style="text-align:center"><img src="/results/hw10_1.jpg" width="650"></p>  
 <p style="text-align:center"><img src="/results/hw10_2.jpg" width="650"></p>  
 
