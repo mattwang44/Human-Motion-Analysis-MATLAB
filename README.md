@@ -57,5 +57,5 @@ Derive the joint moment & joint force of angular momentum during the motion. The
 <p style="text-align:center"><img src="/results/hw10_2.jpg" width="650"></p>  
 
 ## misc
-In the last few minutes of Marvel's The Punisher S1E1 (Netflix), a similar result appeared when a scientist recognized Frank Castle by gait detection.
+In the last few minutes of Marvel's The Punisher S1E1 (Netflix), a similar result appeared when David Lieberman used gait detection and recognized Frank Castle, who faked dead after revenging for his family.
 <p style="text-align:center"><img src="/results/punisher.jpg" width="650"></p>  
