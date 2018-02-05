@@ -56,3 +56,6 @@ Derive the joint moment & joint force of angular momentum during the motion. The
 <p style="text-align:center"><img src="/results/hw10_1.jpg" width="650"></p>  
 <p style="text-align:center"><img src="/results/hw10_2.jpg" width="650"></p>  
 
+## misc
+In the last few minutes of Marvel's The Punisher S1E1 on Netflix, a similar result appeared when a scientist recognized Frank Castle by gait detection.
+<p style="text-align:center"><img src="/results/punisher.jpg" width="650"></p>  
